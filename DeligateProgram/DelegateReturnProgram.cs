@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace DeligateReturnProgram
+namespace DelegateReturnProgram
 {
     class Program
     {
