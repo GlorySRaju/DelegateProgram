@@ -13,7 +13,6 @@ namespace DelegateProgram
 
         static void Main(string[] args)
         {
-
             var delegateObj = new DelegateRef(Print);
             delegateObj();
         }
