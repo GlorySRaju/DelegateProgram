@@ -9,7 +9,7 @@ namespace DelegateTwoArgument
         static void PrintName(string firstName,string secondName)
         {
 
-            Console.WriteLine(firstName,secondName);
+            Console.WriteLine(firstName+" "+secondName);
         }
 
         static void Main(string[] args)
