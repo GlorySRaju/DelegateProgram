@@ -3,7 +3,7 @@
 namespace DelegateProgram
 {
    
-    class Program
+    class BasicDelegate
     {
         public delegate void DelegateRef();
         static void Print()
