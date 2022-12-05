@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace DeligateProgram
+namespace DelegateProgram
 {
    
     class Program
