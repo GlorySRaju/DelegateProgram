@@ -9,7 +9,6 @@ namespace DeligateReturnProgram
         
         static string PrintName()
         {
-            
             return Name="glory";
         }
         
